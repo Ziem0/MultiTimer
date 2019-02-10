@@ -25,8 +25,9 @@ public class TimerController {
 
 			switch (choice) {
 				case EXIT:
+					service.closeAllTimers();
+					service.closePool();
 					System.out.println("byebye");
-					isRunning = false;
 					System.exit(0);
 					break;
 				case STOP:

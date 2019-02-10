@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39c14acb-69b1-481e-92e0-83f28d5f50c4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hotswap_agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/controller/TimerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/enums/Options.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/model/MyTimer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/service/TimerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/view/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/multithreading/controller/TimerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/controller/TimerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/multithreading/model/MyTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/model/MyTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/multithreading/service/TimerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/service/TimerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/multithreading/view/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/view/UI.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +47,7 @@
       <file leaf-file-name="UI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/multithreading/view/UI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state>
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,8 +58,8 @@
       <file leaf-file-name="TimerController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/multithreading/controller/TimerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="method#TimerController#0;class#TimerController#0" />
               </folding>
@@ -80,7 +71,13 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/multithreading/service/TimerService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="e#1493#1494#0" expanded="true" />
+                <element signature="e#1516#1517#0" expanded="true" />
+                <element signature="e#1631#1632#0" expanded="true" />
+                <element signature="e#1662#1663#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,15 +85,16 @@
       <file leaf-file-name="MyTimer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/multithreading/model/MyTimer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state>
               <folding>
                 <element signature="e#328#329#0" expanded="true" />
                 <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#1095#1096#0" expanded="true" />
-                <element signature="e#1118#1119#0" expanded="true" />
-                <element signature="e#982#983#0" expanded="true" />
-                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
+                <element signature="e#831#832#0" expanded="true" />
+                <element signature="e#905#906#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,10 +120,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/multithreading/enums/Options.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/multithreading/model/Timer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/multithreading/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/multithreading/view/UI.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/multithreading/service/TimerService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/multithreading/model/MyTimer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/multithreading/controller/TimerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/multithreading/service/TimerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/multithreading/view/UI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/multithreading/model/MyTimer.java" />
       </list>
     </option>
   </component>
@@ -368,12 +366,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549723622158</updated>
       <workItem from="1549723623797" duration="5739000" />
-      <workItem from="1549803383423" duration="12239000" />
+      <workItem from="1549803383423" duration="22219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17978000" />
+    <option name="totallyTimeSpent" value="27958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1366" height="742" extended-state="6" />
@@ -391,7 +389,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27531645" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27531645" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -432,6 +430,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
           <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding>
+            <element signature="e#1493#1494#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
+            <element signature="e#1631#1632#0" expanded="true" />
+            <element signature="e#1662#1663#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -461,25 +465,28 @@
           <folding>
             <element signature="e#328#329#0" expanded="true" />
             <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#1095#1096#0" expanded="true" />
-            <element signature="e#1118#1119#0" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/multithreading/model/MyTimer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state>
           <folding>
             <element signature="e#328#329#0" expanded="true" />
             <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#1095#1096#0" expanded="true" />
-            <element signature="e#1118#1119#0" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -487,14 +494,20 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/multithreading/service/TimerService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#1493#1494#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
+            <element signature="e#1631#1632#0" expanded="true" />
+            <element signature="e#1662#1663#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/multithreading/controller/TimerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="method#TimerController#0;class#TimerController#0" />
           </folding>
@@ -503,8 +516,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/multithreading/view/UI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state>
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -27,6 +27,4 @@ public class UI {
 		Arrays.stream(Options.values()).forEach(e -> System.out.println(e.ordinal() + "." + e.name()));
 	}
 
-
-
 }

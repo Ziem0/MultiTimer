@@ -31,6 +31,10 @@ public class MyTimer implements Runnable{
 		}
 	}
 
+	public void setClosed() {
+		isClosed = true;
+	}
+
 	public void handleNextRunning() {
 		if (!isRunning) {
 			isRunning = true;

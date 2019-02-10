@@ -28,7 +28,7 @@ public class TimerService {
 		if (optionalTimer.isPresent()) {
 			optionalTimer.get().handleNextRunning();
 		} else if (name.equalsIgnoreCase("all")) {
-			//
+			//keyword 'all' cant be a name for a thread. It uses to show all threads statistics
 		} else {
 			MyTimer myTimer = new MyTimer(name);
 			timers.add(myTimer);
@@ -51,6 +51,14 @@ public class TimerService {
 		} else {
 			timers.forEach(System.out::println);
 		}
+	}
+
+	public void closeAllTimers() {
+		timers.forEach(MyTimer::setClosed);
+	}
+
+	public void closePool() {
+		threadpool.shutdownNow();
 	}
 
 }
